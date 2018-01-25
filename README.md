@@ -3,7 +3,7 @@
 Simple repository created for learning how to: </br>
 <b>
 -Install ExpressJS </br>
--Create simple get route with ExpressJS and access them. <b/></br>
+-Create simple get route with ExpressJS and access them. </b></br>
 
 ## How to use
 
