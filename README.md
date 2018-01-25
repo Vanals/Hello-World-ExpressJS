@@ -1,8 +1,9 @@
 # Hello-World-ExpressJS
 
-Simple repository created for learning how to:
--Install ExpressJS
--Create simple get route with ExpressJS and access them.
+Simple repository created for learning how to: </br>
+<b>
+-Install ExpressJS </br>
+-Create simple get route with ExpressJS and access them. <b/></br>
 
 ## How to use
 
